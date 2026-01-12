@@ -166,7 +166,9 @@ It is suitable as:
 
 ## Author
 
-Rafael Xudoynazarov
+**XCON | RX**
+TG: [@End1essspace](https://t.me/End1essspace)
+GitHub: [End1essspace](https://github.com/End1essspace)
 
 Developed for educational and research purposes.
 All logic is implemented manually without using ready-made end-to-end OCR frameworks.
